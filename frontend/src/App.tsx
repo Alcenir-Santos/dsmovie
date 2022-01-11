@@ -1,8 +1,7 @@
-import React from 'react';
-
+import Navbar from './components/Navbar/indesx';
 function App() {
   return (
-    <h1>Pagina principal</h1>
+    <Navbar/>
   );
 }
 
